@@ -1,0 +1,4 @@
+obj/Debug/ios/ObjCRuntime/Messaging.g.cs
+obj/Debug/ios/HanekeBinding/Haneke_UIButton.g.cs
+obj/Debug/ios/HanekeBinding/Haneke_UIImageView.g.cs
+obj/Debug/ios/ObjCRuntime/Trampolines.g.cs

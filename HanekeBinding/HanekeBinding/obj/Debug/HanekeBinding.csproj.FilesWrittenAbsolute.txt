@@ -1,0 +1,5 @@
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/HanekeBinding/HanekeBinding/HanekeBinding/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/HanekeBinding/HanekeBinding/HanekeBinding/bin/Debug/HanekeBinding.dll.mdb
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/HanekeBinding/HanekeBinding/HanekeBinding/bin/Debug/HanekeBinding.dll
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/HanekeBinding/HanekeBinding/HanekeBinding/obj/Debug/HanekeBinding.dll
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/HanekeBinding/HanekeBinding/HanekeBinding/obj/Debug/HanekeBinding.dll.mdb
